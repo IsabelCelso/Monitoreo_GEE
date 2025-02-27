@@ -11,7 +11,8 @@
 
 ## Descripción del proyecto
 
-Aqui hay que agregar una pequeña descripción del proyecto, casi que el resumen del trabajo.
+Google ha desarrollado Google Earth Engine, una plataforma que cuenta con un extenso catálogo de información derivada de diferentes misiones satelitales, además, permite el procesamiento de información en la plataforma misma o usando una API para el lenguaje de programación Java o Python. El uso de la plataforma simplifica el procesamiento de datos ya que no exige el rendimiento computacional a la maquina física, si no que, se realiza en la nube de Google. 
+Teniendo a la mano herramientas como Google Earth Engine se pude realizar el monitoreo de recursos naturales del territorio nacional desde cualquier lugar con acceso a internet. Los datos obtenidos del monitoreo satelital se capturan en series de tiempo que muestran el comportamiento de las variables hidrológicas, y/o hidrogeológicas, y de las principales presas de México, permitiendo con éstas el estudio de la calidad de los suelos, sequias, identificar zonas de máxima explotación; por ejemplo: agrícola, ganadera, entre otras.                     
 
 
 ## Tutorial de instalación
