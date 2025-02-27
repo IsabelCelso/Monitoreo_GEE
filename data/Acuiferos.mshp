@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <DATABASE>
+    <FIELDS>
+      <FIELD TYPE="LONGINT">id_acuif</FIELD>
+    </FIELDS>
+  </DATABASE>
+  <SOURCE></SOURCE>
+  <HISTORY saga-version="8.3.0">
+    <TOOL library="shapes_lines" id="4" name="Line Simplification">
+      <OPTION type="double" id="TOLERANCE" name="Tolerance">0.01</OPTION>
+      <INPUT type="shapes" id="LINES" name="Lines">
+        <FILE>C:\Users\zaula\OneDrive\Notebooks\GEE_PR\Capas\Acuiferos_MX_gcs.shp</FILE>
+      </INPUT>
+      <OUTPUT type="shapes" id="OUTPUT" name="Simplified Lines">Acuiferos_MX</OUTPUT>
+    </TOOL>
+  </HISTORY>
+  <PROJECTION>
+    <OGC_WKT>GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]</OGC_WKT>
+    <PROJ4>+proj=longlat +a=6378137.000000 +b=6356752.314245 +no_defs</PROJ4>
+    <EPSG>-1</EPSG>
+  </PROJECTION>
+  <FILE>P:\Public Folder\Clases\Capas\Acuiferos_MX.shp</FILE>
+  <DESCRIPTION></DESCRIPTION>
+</SAGA_METADATA>

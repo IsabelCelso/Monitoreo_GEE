@@ -1,0 +1,24 @@
+[project]
+name = "notebooks-monitoreo-con-gee"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=5.5.0",
+    "anywidget>=0.9.13",
+    "bokeh>=3.6.3",
+    "earthengine-api>=1.5.3",
+    "eemont>=0.3.6",
+    "geemap>=0.35.1",
+    "ipywidgets>=8.1.5",
+    "jupyterlab>=4.3.5",
+    "matplotlib>=3.10.0",
+    "notebook>=7.3.2",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "panel>=1.6.1",
+    "param>=2.2.0",
+    "plotly>=6.0.0",
+    "pycrs>=1.0.2",
+]

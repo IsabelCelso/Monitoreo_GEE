@@ -1,0 +1,46 @@
+Id,Clave,No,Nombre,NomComun,Estado
+2,ABRAG,47,Abelardo L. Rodriguez,Abelardo L. Rodriguez,Aguascalientes
+49,PECAG,45,Plutarco El_as Calles,Calles,Aguascalientes
+142,MNLAG,56,Media Luna,Media Luna,Aguascalientes
+237,ALRBN,153,Abelardo L. Rodriguez,Tijuana,Baja California
+241,CRRBN,152,El Carrizo,El Carrizo,Baja California
+345,CILAAMSMX,91,Internacional La Amistad,La Amistad,Coahuila de Zaragoza
+363,CNTCL,92,El Centenario,El Centenario,Coahuila de Zaragoza
+381,LFGCL,94,La Fragua,La Fragua,Coahuila de Zaragoza
+461,SMGCL,93,San Miguel,San Miguel,Coahuila de Zaragoza
+494,VCRCL,97,Venustiano Carranza,Don Martin,Coahuila de Zaragoza
+750,LBQCH,175,La Boquilla,Lago de Toronto,Chihuahua
+813,FIMCH,178,Las Virgenes,Francisco I. Madero,Chihuahua
+825,LLNCH,179,El Granero,Ing. Luis L. Leon,Chihuahua
+836,LJSCH,103,Las Lajas,Las Lajas,Chihuahua
+981,CBRDR,166,Caboraca,Canoas,Durango
+1035,SGBDR,176,San Gabriel,San Gabriel,Durango
+1040,FVLDR,170,Francisco Villa,El Bosque,Durango
+1057,GVCDR,168,Presidente Guadalupe Victoria,El Tunal,Durango
+1084,LCRDR,16,Lazaro Cardenas,El Palmito,Durango
+1120,PAGDR,167,Peña del Aguila,Peña Del Aguila,Durango
+1203,SBYDR,169,Santiago Bayacora,Santiago Bayacora,Durango
+2631,CPRNL,104,Jose Lopez Portillo,Cerro Prieto,Nuevo Leon
+2689,CCHNL,99,Cuchillo Solidaridad,El Cuchillo,Nuevo Leon
+3148,ALMSI,162,Adolfo Lopez Mateos,El Humaya o El Varejonal,Sinaloa
+3154,SLTSI,171,Ing. Aurelio Benassini Vizcaino,El Salto o Elota,Sinaloa
+3197,EBLSI,161,Lic. Eustaquio Buelna,Guamuchil,Sinaloa
+3203,GDOSI,159,Gustavo Diaz Ordaz,Bacurato,Sinaloa
+3210,JLPSI,165,Jose Lopez Portillo,Comedero,Sinaloa
+3211,JORSI,158,Josefa Ortiz de Dominguez,El Sabino,Sinaloa
+3216,LDCSI,156,Luis Donaldo Colosio,Huites,Sinaloa
+3218,PMHSI,157,Miguel Hidalgo,El Mahone,Sinaloa
+3229,SNLSI,164,Sanalona,Sanalona,Sinaloa
+3239,ARLSO,88,Abelardo Rodriguez Lujan,Hermosillo,Sonora
+3241,ARCSO,85,Adolfo Ruiz Cortines,Mocuzari,Sonora
+3243,AOBSO,82,Alvaro Obregon,Oviachic,Sonora
+3308,PMOSO,89,Ing. Rodolfo Felix Valdes,El Molinito,Sonora
+3320,PECSO,81,Plutarco Elias Calles,El Novillo,Sonora
+3440,CILAFLCMX,95,Internacional Falcon,Falcon,Tamaulipas
+3490,MRGTP,100,Marte Rodolfo Gomez,El Azucar,Tamaulipas
+3557,ERCTP,204,Estudiante Ramiro Caballero Dorantes,Las Animas,Tamaulipas
+3617,VGRTP,198,Vicente Guerrero,Las Adjuntas,Tamaulipas
+3739,ELCZC,21,El Cazadero,El Cazadero,Zacatecas
+3790,LREZC,22,Gobernador Leobardo Reynoso,Trujillo,Zacatecas
+3807,EXCZC,69,Miguel Aleman,Excame,Zacatecas
+5133,LBLTP,101,Derivadora Las Blancas,Las Blancas,Tamaulipas
