@@ -17,6 +17,8 @@ Teniendo a la mano herramientas como Google Earth Engine se pude realizar el mon
 
 ## Tutorial de instalación
 
+### Instalación en Windows
+
 1. Decargar la carpeta con las notebooks.
 
 2. Instalar [Python](https://www.python.org/), de preferencia una versión mayor a 3.9. Durante la instalación, asegurarse que se selecciona la opción de **Add python.exe to PATH** para que Python se pueda ejecutar desde la consola.
@@ -43,4 +45,41 @@ cd Ruta_a_la_carpeta_descargada
 uv run jupyter-lab
 ```
 
+### Instalación en Linux
+
+1. Decargar la carpeta con las notebooks.
+
+2. Instalar el gestor de paquetes [uv](https://github.com/astral-sh/uv). Una forma de instalar **uv** es abrir una terminal de Linux y escribir el siguiente comando:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Es probable que se tenga que reiniciar el equipo para que esta instalación tenga efecto.
+
+3. Abrir una terminal en la carpeta en donde se encuentran los códigos descargados y ejecutar la siguiente instrucción:
+
+
+```bash
+source ./linux_install.sh
+```
+
+
+4. Desde la terminal inicializamos [Jupyter Lab](https://jupyter.org/) con la siguiente instrucción:
+
+```bash
+source ./linux_run.sh
+```
+
+- Alternativamente se puede ejecutar de forma manual, para ello primero se activa el ambeinte virtual:
+
+```bash
+source .venv/bin/activate
+```
+
+Y posteriormente se ejecuta Jupyter Lab
+
+```bash
+uv run jupyter-lab
+```
 
